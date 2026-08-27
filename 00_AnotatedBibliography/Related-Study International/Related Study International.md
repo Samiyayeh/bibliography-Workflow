@@ -5,6 +5,7 @@
 ## Annotated Entries
 
 - [[AlQudah et al. (2021) - Medical data integration using HL7 standards for patient's early identification]]
+- [[Bogale et al. (2023) - Acceptability and use of the electronic community health information system]]
 - [[Ganeshan et al. (2024) - An Electronic Health Record-Based Automated Self-Rescheduling Tool]]
 - [[Klaas et al. (2024) - Criteria-based outpatient scheduling at a nephrology clinic]]
 - [[Lee et al. (2022) - Physician-Customized Strategies for Reducing Outpatient Waiting Time]]
