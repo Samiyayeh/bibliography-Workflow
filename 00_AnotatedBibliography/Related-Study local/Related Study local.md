@@ -9,3 +9,4 @@
 - [[Fajardo et al. (2025) - KidGuard A Digital Immunization Hub for Rural Health Units]]
 - [[Mizona and Aquino (2026) - Design and Quality Assessment of an Intelligent Electronic Health Record and Prescription System]]
 - [[Tinam-isan and Naga (2024) - Exploring the Landscape of Health Information Systems in the Philippines]]
+- [[Wenceslao (2022) - Development and Evaluation of the COVID-19 Vaccination Management System]]
