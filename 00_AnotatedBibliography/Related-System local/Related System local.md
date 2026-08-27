@@ -10,3 +10,4 @@
 - [[[4] Bo et al. (2023) - Patient Records Management System Singapore Diagnostics]]
 - [[[5] David et al. (2026) - Web-Based Queuing System Municipal Health Center of Mabini]]
 - [[[6] Cabigting et al. (2023) - Metacare Cross-Platform Healthcare Management System MySQL]]
+- [[[7] Cadingilan et al. (2025) - E-Konsulta Clinic Medical Record Management System]]
